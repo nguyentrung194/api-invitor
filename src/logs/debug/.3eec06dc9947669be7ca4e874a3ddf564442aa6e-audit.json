@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/trungb1809313/Public/invitor-api/src/logs/debug/.3eec06dc9947669be7ca4e874a3ddf564442aa6e-audit.json",
+    "files": [
+        {
+            "date": 1631610579294,
+            "name": "/home/trungb1809313/Public/invitor-api/src/logs/debug/2021-09-14.log",
+            "hash": "9fd01af00a349da95b663c384d622abb"
+        }
+    ]
+}

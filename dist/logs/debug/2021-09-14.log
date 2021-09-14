@@ -1,0 +1,14 @@
+2021-09-14 16:31:41 info: =================================
+2021-09-14 16:31:41 info: ======= ENV: production =======
+2021-09-14 16:31:41 info: 🚀 App listening on the port 8080
+2021-09-14 16:31:41 info: =================================
+2021-09-14 16:31:45 info: ::1 - - [14/Sep/2021:09:31:45 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+2021-09-14 16:31:45 info: ::1 - - [14/Sep/2021:09:31:45 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+2021-09-14 16:32:12 info: ::1 - - [14/Sep/2021:09:32:12 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+2021-09-14 16:32:24 info: =================================
+2021-09-14 16:32:24 info: ======= ENV: production =======
+2021-09-14 16:32:24 info: 🚀 App listening on the port 8080
+2021-09-14 16:32:24 info: =================================
+2021-09-14 16:32:40 info: ::1 - - [14/Sep/2021:09:32:40 +0000] "GET /robots.txt HTTP/1.1" 404 149 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+2021-09-14 16:32:59 info: ::1 - - [14/Sep/2021:09:32:59 +0000] "GET /invite_teamlogger HTTP/1.1" 404 156 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+2021-09-14 16:33:15 info: ::1 - - [14/Sep/2021:09:33:15 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"

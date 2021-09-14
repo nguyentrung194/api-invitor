@@ -1,0 +1,36 @@
+2021-09-14 16:06:35 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/home/trungb1809313/Public/invitor-api/node_modules/express/lib/application.js:618:24)
+    at App.listen (/home/trungb1809313/Public/invitor-api/dist/app.js:28:18)
+    at Object.<anonymous> (/home/trungb1809313/Public/invitor-api/dist/server.js:13:5)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+2021-09-14 16:07:32 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/home/trungb1809313/Public/invitor-api/node_modules/express/lib/application.js:618:24)
+    at App.listen (/home/trungb1809313/Public/invitor-api/dist/app.js:28:18)
+    at Object.<anonymous> (/home/trungb1809313/Public/invitor-api/dist/server.js:13:5)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+2021-09-14 16:08:34 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/home/trungb1809313/Public/invitor-api/node_modules/express/lib/application.js:618:24)
+    at App.listen (/home/trungb1809313/Public/invitor-api/dist/app.js:28:18)
+    at Object.<anonymous> (/home/trungb1809313/Public/invitor-api/dist/server.js:13:5)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)

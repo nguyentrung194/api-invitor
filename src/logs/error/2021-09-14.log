@@ -1,108 +1,12 @@
-2021-09-14 13:46:47 error: uncaughtException: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-Error: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
-    at Function.Module._resolveFilename (/home/trungb1809313/Public/invitation-service-express/node_modules/tsconfig-paths/lib/register.js:75:40)
-    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
-    at Module.require (internal/modules/cjs/loader.js:1025:19)
-    at require (internal/modules/cjs/helpers.js:72:18)
-    at Object.<anonymous> (/home/trungb1809313/Public/invitation-service-express/src/app.ts:16:1)
+2021-09-14 16:12:19 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (/home/trungb1809313/Public/invitor-api/node_modules/express/lib/application.js:618:24)
+    at App.listen (/home/trungb1809313/Public/invitor-api/src/app.ts:34:14)
+    at Object.<anonymous> (/home/trungb1809313/Public/invitor-api/src/server.ts:14:5)
     at Module._compile (internal/modules/cjs/loader.js:1137:30)
-    at Module.m._compile (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1310:23)
+    at Module.m._compile (/home/trungb1809313/Public/invitor-api/node_modules/ts-node/src/index.ts:1310:23)
     at Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
-    at Object.require.extensions.<computed> [as .ts] (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1313:12)
-2021-09-14 13:48:20 error: uncaughtException: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-Error: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
-    at Function.Module._resolveFilename (/home/trungb1809313/Public/invitation-service-express/node_modules/tsconfig-paths/lib/register.js:75:40)
-    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
-    at Module.require (internal/modules/cjs/loader.js:1025:19)
-    at require (internal/modules/cjs/helpers.js:72:18)
-    at Object.<anonymous> (/home/trungb1809313/Public/invitation-service-express/src/app.ts:16:1)
-    at Module._compile (internal/modules/cjs/loader.js:1137:30)
-    at Module.m._compile (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1310:23)
-    at Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
-    at Object.require.extensions.<computed> [as .ts] (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1313:12)
-2021-09-14 13:48:34 error: uncaughtException: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-Error: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
-    at Function.Module._resolveFilename (/home/trungb1809313/Public/invitation-service-express/node_modules/tsconfig-paths/lib/register.js:75:40)
-    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
-    at Module.require (internal/modules/cjs/loader.js:1025:19)
-    at require (internal/modules/cjs/helpers.js:72:18)
-    at Object.<anonymous> (/home/trungb1809313/Public/invitation-service-express/src/app.ts:16:1)
-    at Module._compile (internal/modules/cjs/loader.js:1137:30)
-    at Module.m._compile (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1310:23)
-    at Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
-    at Object.require.extensions.<computed> [as .ts] (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1313:12)
-2021-09-14 13:48:43 error: uncaughtException: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-Error: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
-    at Function.Module._resolveFilename (/home/trungb1809313/Public/invitation-service-express/node_modules/tsconfig-paths/lib/register.js:75:40)
-    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
-    at Module.require (internal/modules/cjs/loader.js:1025:19)
-    at require (internal/modules/cjs/helpers.js:72:18)
-    at Object.<anonymous> (/home/trungb1809313/Public/invitation-service-express/src/app.ts:16:1)
-    at Module._compile (internal/modules/cjs/loader.js:1137:30)
-    at Module.m._compile (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1310:23)
-    at Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
-    at Object.require.extensions.<computed> [as .ts] (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1313:12)
-2021-09-14 13:49:18 error: uncaughtException: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-Error: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
-    at Function.Module._resolveFilename (/home/trungb1809313/Public/invitation-service-express/node_modules/tsconfig-paths/lib/register.js:75:40)
-    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
-    at Module.require (internal/modules/cjs/loader.js:1025:19)
-    at require (internal/modules/cjs/helpers.js:72:18)
-    at Object.<anonymous> (/home/trungb1809313/Public/invitation-service-express/src/app.ts:16:1)
-    at Module._compile (internal/modules/cjs/loader.js:1137:30)
-    at Module.m._compile (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1310:23)
-    at Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
-    at Object.require.extensions.<computed> [as .ts] (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1313:12)
-2021-09-14 13:49:24 error: uncaughtException: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-Error: Cannot find module './initializer/initialize'
-Require stack:
-- /home/trungb1809313/Public/invitation-service-express/src/app.ts
-- /home/trungb1809313/Public/invitation-service-express/src/server.ts
-    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
-    at Function.Module._resolveFilename (/home/trungb1809313/Public/invitation-service-express/node_modules/tsconfig-paths/lib/register.js:75:40)
-    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
-    at Module.require (internal/modules/cjs/loader.js:1025:19)
-    at require (internal/modules/cjs/helpers.js:72:18)
-    at Object.<anonymous> (/home/trungb1809313/Public/invitation-service-express/src/app.ts:16:1)
-    at Module._compile (internal/modules/cjs/loader.js:1137:30)
-    at Module.m._compile (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1310:23)
-    at Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
-    at Object.require.extensions.<computed> [as .ts] (/home/trungb1809313/Public/invitation-service-express/node_modules/ts-node/src/index.ts:1313:12)
+    at Object.require.extensions.<computed> [as .ts] (/home/trungb1809313/Public/invitor-api/node_modules/ts-node/src/index.ts:1313:12)
