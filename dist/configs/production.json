@@ -1,0 +1,16 @@
+{
+    "env": "production",
+    "secretKey": "secretKey",
+    "log": {
+        "format": "combined",
+        "dir": "../logs"
+    },
+    "cors": {
+        "origin": true,
+        "credentials": true
+    },
+    "mattermost": {
+        "username": "phuc.pham",
+        "password": "thanhcong"
+    }
+}

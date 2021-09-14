@@ -1,0 +1,24 @@
+2021-09-13 00:36:27 error: uncaughtException: EIO: i/o error, write
+Error: EIO: i/o error, write
+    at writeSync (fs.js:679:3)
+    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at SyncWriteStream.Writable.write (_stream_writable.js:318:11)
+    at Console.log (/home/trungb1809313/Public/invitation-service-express/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/trungb1809313/Public/invitation-service-express/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/trungb1809313/Public/invitation-service-express/node_modules/readable-stream/lib/_stream_writable.js:428:64)
+    at writeOrBuffer (/home/trungb1809313/Public/invitation-service-express/node_modules/readable-stream/lib/_stream_writable.js:417:5)
+    at Console.Writable.write (/home/trungb1809313/Public/invitation-service-express/node_modules/readable-stream/lib/_stream_writable.js:334:11)
+2021-09-13 21:47:23 error: uncaughtException: EIO: i/o error, write
+Error: EIO: i/o error, write
+    at writeSync (fs.js:679:3)
+    at SyncWriteStream._write (internal/fs/sync_write_stream.js:24:3)
+    at doWrite (_stream_writable.js:403:12)
+    at writeOrBuffer (_stream_writable.js:387:5)
+    at SyncWriteStream.Writable.write (_stream_writable.js:318:11)
+    at Console.log (/home/trungb1809313/Public/invitation-service-express/node_modules/winston/lib/winston/transports/console.js:79:23)
+    at Console._write (/home/trungb1809313/Public/invitation-service-express/node_modules/winston-transport/index.js:103:17)
+    at doWrite (/home/trungb1809313/Public/invitation-service-express/node_modules/readable-stream/lib/_stream_writable.js:428:64)
+    at writeOrBuffer (/home/trungb1809313/Public/invitation-service-express/node_modules/readable-stream/lib/_stream_writable.js:417:5)
+    at Console.Writable.write (/home/trungb1809313/Public/invitation-service-express/node_modules/readable-stream/lib/_stream_writable.js:334:11)

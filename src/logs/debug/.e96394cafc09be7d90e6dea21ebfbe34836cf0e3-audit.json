@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/trungb1809313/Public/invitation-service-express/src/logs/debug/.e96394cafc09be7d90e6dea21ebfbe34836cf0e3-audit.json",
+    "files": [
+        {
+            "date": 1631461902043,
+            "name": "/home/trungb1809313/Public/invitation-service-express/src/logs/debug/2021-09-12.log",
+            "hash": "d5a08b215ec57453dc3b5c26c9152017"
+        },
+        {
+            "date": 1631466066204,
+            "name": "/home/trungb1809313/Public/invitation-service-express/src/logs/debug/2021-09-13.log",
+            "hash": "2f40ff047c4f8650a4d349468f64e363"
+        },
+        {
+            "date": 1631588668569,
+            "name": "/home/trungb1809313/Public/invitation-service-express/src/logs/debug/2021-09-14.log",
+            "hash": "0501078a888e43d0e2e016cd5a71304c"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/trungb1809313/Public/invitation-service-express/src/logs/error/.da47526be828363d52b0b9cd1533a488448f0fdf-audit.json",
+    "files": [
+        {
+            "date": 1631461902045,
+            "name": "/home/trungb1809313/Public/invitation-service-express/src/logs/error/2021-09-12.log",
+            "hash": "b5eb645195ac837394cb72064f18aa49"
+        },
+        {
+            "date": 1631466066208,
+            "name": "/home/trungb1809313/Public/invitation-service-express/src/logs/error/2021-09-13.log",
+            "hash": "b8b19a3a79514a87c7c2bd656ae625ce"
+        },
+        {
+            "date": 1631588668628,
+            "name": "/home/trungb1809313/Public/invitation-service-express/src/logs/error/2021-09-14.log",
+            "hash": "ca70d4808edcfab892fd0bdebcb425d3"
+        }
+    ]
+}
